@@ -25,7 +25,14 @@ Here are some ideas to get you started:
 
 🎉 **Welcome to my GitHub profile!**
 
-<a href="https://github.com/v7lin">
-  <img style="width:55%" src="https://github-readme-stats.vercel.app/api?username=v7lin&count_private=true&show_icons=true&hide=commits" />
-  <img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v7lin&layout=compact"/>
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RxReader&repo=wechat_kit)](https://github.com/RxReader/wechat_kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RxReader&repo=alipay_kit)](https://github.com/RxReader/alipay_kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RxReader&repo=tencent_kit)](https://github.com/RxReader/tencent_kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RxReader&repo=weibo_kit)](https://github.com/RxReader/weibo_kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RxReader&repo=router_kit)](https://github.com/RxReader/router_kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RxReader&repo=lifecycle_kit)](https://github.com/RxReader/lifecycle_kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RxReader&repo=advertising_identifier)](https://github.com/RxReader/advertising_identifier)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RxReader&repo=device_kit)](https://github.com/RxReader/device_kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RxReader&repo=fcuuid_kit)](https://github.com/RxReader/fcuuid_kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RxReader&repo=oaid_kit)](https://github.com/RxReader/oaid_kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RxReader&repo=walle_kit)](https://github.com/RxReader/walle_kit)
